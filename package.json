@@ -1,0 +1,26 @@
+{
+  "name": "monGraph",
+  "version": "0.0.0",
+  "description": "GraphDB service using mongoDB",
+  "main": "lib/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opulisDynamics/monGraph.git"
+  },
+  "keywords": [
+    "graphDB",
+    "mongoDB"
+  ],
+  "author": "opulisDynamics",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opulisDynamics/monGraph/issues"
+  },
+  "homepage": "https://github.com/opulisDynamics/monGraph"
+}
