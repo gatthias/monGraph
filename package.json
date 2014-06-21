@@ -18,13 +18,17 @@
     "mongoDB"
   ],
   "author": "opulisDynamics",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/opulisDynamics/monGraph/issues"
   },
   "homepage": "https://github.com/opulisDynamics/monGraph",
   "devDependencies": {
     "mocha": "",
-    "should": ""
+    "chai": "",
+    "chai-as-promised": "",
+    "should": "",
+    "mongoose": "",
+    "q": ""
     }
 }
